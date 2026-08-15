@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  it's a Krishna Bhajan Website Interface
+  It's Krishna Bhajan Website Interface
 </h2>
 
 <img src="background.png">
@@ -13,10 +13,10 @@
  <hr>
 
  <h2 align="center">
-  it's a Vatan ke Naam Website 
+  It's Vatan ke Naam Website 
 </h2>
 
-<img src="/vatan_ke_naam/download.jpg">
+<img src="/vatan_ke_naam/download.png">
 
 
 <a href="https://vatankenaam.netlify.app/" target="_blank">watch website</a>
