@@ -6,7 +6,7 @@
   It's Krishna Bhajan Website Interface
 </h2>
 
-<img src="background.png">
+<img src="krishna_website/background.png">
 
 
 <a href="https://krishnabhajan.netlify.app/" target="_blank">watch website</a>
